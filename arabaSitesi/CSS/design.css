@@ -1,0 +1,42 @@
+.ortala {
+    text-align: center;
+    
+}
+
+.ana-baslik {
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    color: #212F3D;
+    margin-top: 5px;
+}
+
+.ara-baslik {
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    color: #212F3D;
+}
+
+.ara-baslik2 {
+    font-size: 15px;
+    font-family: 'Times New Roman';
+    color: #212F3D;
+    margin-top: 25px;
+}
+
+.arka-plan{
+    background-color: #B3B6B7;
+}
+
+.metin {
+    font-size: 14px;
+    font-family: 'Times New Roman';
+
+}
+
+ul,ol{
+    display: inline-block;
+    margin: 0px;
+    padding: 0%;
+    line-height: 20px;
+
+}
