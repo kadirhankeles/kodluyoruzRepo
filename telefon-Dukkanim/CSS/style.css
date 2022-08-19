@@ -1,0 +1,36 @@
+body {
+    background-color: #FFF5E1;
+}
+
+.ortala {
+    text-align: center;
+}
+
+.anabaslik {
+    color: #781C68;
+    font-size: 30px;
+}
+
+.altbaslik {
+    color: #319DA0;
+}
+
+.ara-baslik {
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    color: #9ED2C6;
+}
+.metin {
+    font-size: 14px;
+    font-family: 'Times New Roman';
+
+}
+
+li {
+    list-style-position: inside;
+}
+
+ol li img {
+    height: 350px;
+    width: 300px;
+}
