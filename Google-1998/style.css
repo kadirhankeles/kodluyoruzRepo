@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    
+}
+
+.gorsel-google {
+    display: flex;
+    justify-content: center;
+}
+
+.arama-kutusu {
+    background-color: #EEEEEE;
+    text-align: center;
+    
+}
+
+.yazi1 {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.kucuk-yazi {
+    font-size: smaller;
+    text-align: center;
+}
+
+.alt-kutular {
+    display: flex;
+
+}
+
+.sol-kutu {
+    width: 40%;
+    background-color: #7EE5DA;
+    text-align: center;
+    margin-right: 0.2%;
+    
+}
+
+.orta-kutu {
+    width: 20%;
+    background-color: #70CCC2;
+    text-align: center;
+    margin-right: 0.2%;
+}
+
+.sag-kutu {
+    width: 40%;
+    background-color: #62B3AA;
+    text-align: center;
+}
